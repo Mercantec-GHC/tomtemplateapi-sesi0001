@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\pages\\pricechart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\pages\\pricechart.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|c:\\users\\curle\\source\\repos\\blazorappbenzinpriser\\blazorappbenzinpriser\\blazorappbenzinpriser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2254263F-81CB-423D-B278-0E2ABF0CDFA2}|BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj|solutionrelative:blazorappbenzinpriser\\blazorappbenzinpriser.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\Pages\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T20:20:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T20:15:10.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlazorAppBenzinPriser",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\BlazorAppBenzinPriser.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T12:25:08.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\_Imports.razor",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\_Imports.razor",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T12:16:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\App.razor",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\App.razor",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\App.razor",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:41:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:38:26.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriceChart.razor",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\PriceChart.razor",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\Pages\\PriceChart.razor",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Pages\\PriceChart.razor",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\Pages\\PriceChart.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:37:25.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorAppBenzinPriser\\Program.cs",
+              "ToolTip": "C:\\Users\\curle\\source\\repos\\BlazorAppBenzinPriser\\BlazorAppBenzinPriser\\Program.cs",
+              "RelativeToolTip": "BlazorAppBenzinPriser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:32:14.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
